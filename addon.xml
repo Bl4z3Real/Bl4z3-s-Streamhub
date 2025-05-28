@@ -1,0 +1,29 @@
+<addons>
+  <addon id="plugin.video.bl4z3_streamhub" name="Bl4z3_ StreamHub" version="1.0.0" provider-name="Bl4z3_">
+    <requires>
+      <import addon="xbmc.python" version="3.0.0"/>
+      <import addon="script.module.requests" version="2.12.4"/>
+      <import addon="script.module.routing" version="0.2.0"/>
+      <import addon="script.module.inputstreamhelper" version="0.5.2"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <platform>all</platform>
+      <summary lang="it_IT">Hub IPTV con EPG per canali italiani, divisi per categorie</summary>
+      <description lang="it_IT">Bl4z3_ StreamHub è un addon IPTV con guida TV (EPG) integrata, che organizza i canali italiani in categorie (Intrattenimento, News, Sport, Bambini, ecc.).</description>
+      <summary lang="en_GB">IPTV Hub with EPG for Italian channels, sorted by category</summary>
+      <description lang="en_GB">Bl4z3_ StreamHub is an IPTV addon with integrated EPG, categorizing Italian channels by genre (Entertainment, News, Sports, Kids, etc.).</description>
+      <assets>
+        <icon>resources/images/icon.png</icon>
+      </assets>
+      <news>v1.0.0 - Prima release pubblica: EPG integrata, supporto M3U, player e categorie canali.</news>
+      <disclaimer>Addon creato da Bl4z3_ solo per scopi didattici e test.</disclaimer>
+      <license>GPL-3.0-or-later</license>
+      <forum>https://t.me/bl4z3hub</forum>
+      <website>https://bl4z3stream.github.io/</website>
+      <source>https://github.com/Bl4z3Hub/StreamHub</source>
+    </extension>
+  </addon>
+</addons>
