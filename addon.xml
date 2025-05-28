@@ -1,5 +1,5 @@
-<addons>
-  <addon id="plugin.video.bl4z3_streamhub" name="Bl4z3_ StreamHub" version="1.0.0" provider-name="Bl4z3_">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <addon id="plugin.video.bl4z3_streamhub" name="Bl4z3_ StreamHub" version="1.0.1" provider-name="Bl4z3_">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
       <import addon="script.module.requests" version="2.12.4"/>
@@ -18,12 +18,14 @@
       <assets>
         <icon>resources/images/icon.png</icon>
       </assets>
-      <news>v1.0.0 - Prima release pubblica: EPG integrata, supporto M3U, player e categorie canali.</news>
+      <news>
+        v1.0.1 - Fix addons.xml per riuscire a installarlo su Kodi; ancora non risolto errore al lancio.
+        v1.0.0 - Prima release pubblica: EPG integrata, supporto M3U, player e categorie canali.
+      </news>
       <disclaimer>Addon creato da Bl4z3_ solo per scopi didattici e test.</disclaimer>
       <license>GPL-3.0-or-later</license>
       <forum>https://t.me/bl4z3hub</forum>
       <website>https://bl4z3stream.github.io/</website>
-      <source>https://github.com/Bl4z3Hub/StreamHub</source>
+      <source>https://github.com/Bl4z3_/Bl4z3-s-Streamhub</source>
     </extension>
   </addon>
-</addons>
