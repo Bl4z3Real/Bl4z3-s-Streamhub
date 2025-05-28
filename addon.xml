@@ -11,6 +11,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
       <platform>all</platform>
+      <language>it</language>
       <summary lang="it_IT">Hub IPTV con EPG per canali italiani, divisi per categorie</summary>
       <description lang="it_IT">Bl4z3_ StreamHub è un addon IPTV con guida TV (EPG) integrata, che organizza i canali italiani in categorie (Intrattenimento, News, Sport, Bambini, ecc.).</description>
       <summary lang="en_GB">IPTV Hub with EPG for Italian channels, sorted by category</summary>
@@ -23,9 +24,7 @@
         v1.0.2 - Risolto l'errore al lancio integrando la lista di Tundrak nel repository stesso e sistemando qualcosina.
       </news>
       <disclaimer>Addon creato da Bl4z3_ solo per scopi didattici e test.</disclaimer>
-      <license>GPL-2.0-or-later</license>
-      <forum>https://t.me/bl4z3hub</forum>
-      <website>https://bl4z3stream.github.io/</website>
+      <license>MIT</license>
       <source>https://github.com/Bl4z3Real/Bl4z3-s-Streamhub</source>
     </extension>
   </addon>
