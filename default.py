@@ -2,6 +2,7 @@
 import sys
 import os
 import re
+import xbmc
 import xbmcplugin
 import xbmcgui
 
