@@ -4,9 +4,11 @@ import os
 import re
 import xbmcplugin
 import xbmcgui
+from xbmcaddon import Addon
+from xbmcvfs import translatePath
 
 handle = int(sys.argv[1])
-base_path = xbmc.translatePath("special://home/addons/plugin.video.bl4z3_streamhub/")
+base_path = translatePath(Addon().getAddonInfo('path'))
 m3u_path = os.path.join(base_path, "resources", "IPTV_Italia.m3u")
 
 def parse_m3u(filepath):
