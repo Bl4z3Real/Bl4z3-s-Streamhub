@@ -19,10 +19,8 @@
         <icon>resources/images/icon.png</icon>
       </assets>
       <news>
-        v1.0.3 - Aggiunta la lista di Tundrak, che include canali italiani e stranieri.
+        v1.0.3 - Aggiornata la lista di canali.
         v1.0.2 - Risolto l'errore al lancio integrando la lista di Tundrak nel repository stesso e sistemando qualcosina.
-        v1.0.1 - Fix addons.xml per riuscire a installarlo su Kodi; su dispositivi diversi dal computer di Bl4z3_ non funziona per ora.
-        v1.0.0 - Prima release pubblica: EPG integrata, supporto M3U, player e categorie canali.
       </news>
       <disclaimer>Addon creato da Bl4z3_ solo per scopi didattici e test.</disclaimer>
       <license>MIT</license>
