@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Segoe UI",
+  "previewText": "Segoe UI is a clean, readable sans-serif typeface designed for screen interfaces and user interfaces.",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/mrbvrz/segoe-ui/raw/master/font/seguibl.ttf?raw=true",
+    "ggsans-Bold": "https://github.com/mrbvrz/segoe-ui/raw/master/font/segoeuib.ttf?raw=true",
+    "ggsans-BoldItalic": "https://github.com/mrbvrz/segoe-ui/raw/master/font/segoeuiz.ttf?raw=true",
+    "ggsans-ExtraBold": "https://github.com/mrbvrz/segoe-ui/raw/master/font/seguibl.ttf?raw=true",
+    "ggsans-ExtraBoldItalic": "https://github.com/mrbvrz/segoe-ui/raw/master/font/seguibli.ttf?raw=true",
+    "ggsans-Medium": "https://github.com/mrbvrz/segoe-ui/raw/master/font/segoeuisl.ttf?raw=true",
+    "ggsans-MediumItalic": "https://github.com/mrbvrz/segoe-ui/raw/master/font/seguisli.ttf?raw=true",
+    "ggsans-Normal": "https://github.com/mrbvrz/segoe-ui/raw/master/font/segoeui.ttf?raw=true",
+    "ggsans-NormalItalic": "https://github.com/mrbvrz/segoe-ui/raw/master/font/segoeuii.ttf?raw=true",
+    "ggsans-Semibold": "https://github.com/mrbvrz/segoe-ui/raw/master/font/seguisb.ttf?raw=true",
+    "ggsans-SemiboldItalic": "https://github.com/mrbvrz/segoe-ui/raw/master/font/seguisbi.ttf?raw=true",
+    "NotoSans-Bold": "https://github.com/mrbvrz/segoe-ui/raw/master/font/segoeuib.ttf?raw=true",
+    "NotoSans-ExtraBold": "https://github.com/mrbvrz/segoe-ui/raw/master/font/seguibl.ttf?raw=true",
+    "NotoSans-Medium": "https://github.com/mrbvrz/segoe-ui/raw/master/font/segoeuisl.ttf?raw=true",
+    "NotoSans-Normal": "https://github.com/mrbvrz/segoe-ui/raw/master/font/segoeui.ttf?raw=true",
+    "NotoSans-NormalItalic": "https://github.com/mrbvrz/segoe-ui/raw/master/font/segoeuii.ttf?raw=true",
+    "NotoSans-Semibold": "https://github.com/mrbvrz/segoe-ui/raw/master/font/seguisb.ttf?raw=true",
+    "ggmono-Normal": "https://github.com/mrbvrz/segoe-ui/raw/master/font/segoeui.ttf?raw=true"
+  }
+}
