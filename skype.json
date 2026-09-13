@@ -435,16 +435,4 @@
   },
 
   "spec": 2
-}StatusOnline": "#b8bb26",
-      "StatusStreaming": "#d3869b",
-      "trash": "#fb4934",
-      "TrashIcon": "#fb4934",
-      "TriangleExclamationPointIcon": "#fb4934",
-      "ThreadIcon": "#b8bb26",
-      "toast_copy_link": "#b8bb26",
-      "toast_copy_message": "#b8bb26",
-      "toast_image_saved": "#b8bb26",
-      "WrenchIcon": "#141e21E6"
-    }},
-    "spec": 2
 }
